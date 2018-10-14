@@ -1,0 +1,2 @@
+# bashBasic
+Bash basic scripting
